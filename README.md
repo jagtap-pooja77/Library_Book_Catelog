@@ -141,6 +141,13 @@ PUT /api/books/1/availability?available=false
 ```
 baseUrl = http://localhost:8080/books
 ```
+## 📬 Postman Collection
+
+You can use the Postman collection below to test all the API endpoints:
+
+🔗 [Click here to open the Postman Collection](https://web.postman.co/workspace/My-Workspace~38a455d7-506c-4a5e-8604-ee63b629d110/collection/45369474-31642da3-0e87-4465-9288-50a3ca46f403?action=share&source=copy-link&creator=45369474)
+
+
 ---
 ### 🧾 License
 
